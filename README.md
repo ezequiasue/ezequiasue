@@ -3,7 +3,7 @@
 I'm Ezequias S. Santos,  I'm a Software Engineer
 
 [![Linkedin:](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequiasue/?locale=en_US)](https://www.linkedin.com/in/ezequiasue/?locale=en_US)
-
+![](https://camo.githubusercontent.com/d7461c5b25d23f802a57062dc49424a066e68f4247604eec851a509e28ca5927/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d726168756c646b6a61696e)
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
